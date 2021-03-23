@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Finally here, I am exhausted. Is there any more detailed intro...
 Use the left arrow to go back!
